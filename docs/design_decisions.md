@@ -1,10 +1,10 @@
-# DD-000
+## DD-000
 
-## Decsion
+### Decsion
 -
-## Reason
+### Reason
 -
-## Tradeoffs
+### Tradeoffs
 
 Pros:
 -
@@ -13,15 +13,15 @@ Cons:
 -
 
 
-# DD-001
+## DD-001
 
-## Decision
+### Decision
 Chose:
 Active Repulsive Electromagnetic Suspension (AREMS) vs Active Attractive Electromagnetic Suspension
 
-## Reason
+### Reason
 -
-## Tradeoffs
+### Tradeoffs
 
 Pros:
 -
