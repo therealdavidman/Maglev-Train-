@@ -26,12 +26,16 @@ Compared to EMS, AREMS provides a cleaner visual apppearance and more closely ma
 
 ### Tradeoffs
 
-Pros:
-- looks cooler
+#### Pros:
+- Flat, visually clean guidway.
+- More impressive visual demonstration.
+- Levitation components remain entirely onboard.
+- Capable of levitation from rest.
+- Unique architecture with interestin control-system challenges.
 
-Cons:
-- requires permanant magnet on the track
-- likely cannot use hall sensors as too much interference
-- can cause lateral movment of the train means vertical rail guides or magnets are required.
-- likely more difficult
-- not scalable.
+#### Cons:
+- requires permanant magnets (or equivelant magnetic structure) on the track.
+- Hall effect sensors are likey unsuitable due to the complex magnetic enviroment.
+- Requires seperate lateral guidance (mechanical rails or magnetic guidance).
+- more complex magnetic interactions than EMS.
+- More difficult to scale to a full-size transportation system.
