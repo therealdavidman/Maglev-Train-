@@ -2,7 +2,7 @@
 
 # [ ] Achieve Hover
 
-## - [ ] Initial Phase
+## - [x] Initial Phase
 - [x] Create a GitHub Repository
 - [x] Create concept
 - [ ] research parts
