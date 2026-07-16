@@ -6,3 +6,4 @@
 | 28 AWG wire | winding on electromagnet | 1 | planned | electromagnet |
 | polymide tape | insulator | 1 | planned | electromagnet |
 | 1018 steel | electromagnet core | 4 | planned | electromagnet (sourced from metal supermarkets)|
+| IRLZ44NPBF mosfet | electromagnet driver | 4 | planned | electromagnet |
