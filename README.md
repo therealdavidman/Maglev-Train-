@@ -12,4 +12,4 @@
 
 #current stage: 
 
-[electromagnet V1](docs/electromagnet_v1/README.md)
+[electromagnet V1](testing/electromagnet_v1/README.md)
