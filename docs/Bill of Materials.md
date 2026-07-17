@@ -1,11 +1,11 @@
-| Component | Purpose | Quantity | Status | Notes |
-|-----------|---------|---------:|--------|-------|
-| ESP32-DEVKITC-32UE | Main Controller | 1 | planned | initial dev |
-| 30v-10A power supply | Lab Power | 1 | planned | initial dev |
+| Component | Purpose | Quantity | Status | Notes | price | link |
+|-----------|---------|---------:|--------|-------|-------|-------------|
+| 30v-10A power supply | Lab Power | 1 | planned | initial dev | $72.24 | https://www.amazon.ca/cart/smart-wagon?newItems=5579282c-b9d7-415c-83be-f79481c2e0a0,1&ref_=sw_refresh |
 | soldering iron | soldering | 1 | planned | initial dev |
 | 28 AWG wire | winding on electromagnet | 1 | planned | electromagnet |
 | polymide tape | insulator | 1 | planned | electromagnet |
 | 1018 steel | electromagnet core | 4 | planned | electromagnet (sourced from metal supermarkets)|
+| ESP32-DEVKITC-32UE | Main Controller | 1 | planned | initial dev |
 | IRLZ44NPBF mosfet | electromagnet driver | 4 | planned | electromagnet |
 | TC4427A Gate Driver | bringing the 3.3v from esp to 10V | 2 | planned | electromagnet  |
 | 22 ohm resistors (metal film) | Gate resistor | 4 | planned | electromag levitation (could just find assortment pack)|
