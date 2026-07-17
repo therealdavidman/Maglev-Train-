@@ -1,5 +1,5 @@
 | Component | Purpose | Quantity | Status | Notes | price | link |
-|-----------|---------|---------:|--------|-------|-------|---------------|
+|-----------|---------|---------:|--------|-------|-------|---------|
 | 30v-10A power supply | Lab Power | 1 | planned | initial dev | $72.24 | https://www.amazon.ca/cart/smart-wagon?newItems=5579282c-b9d7-415c-83be-f79481c2e0a0,1&ref_=sw_refresh |
 | soldering iron | soldering | 1 | planned | initial dev | $22.31 | https://www.amazon.ca/gp/product/B0882VM47R/ref=ewc_pr_img_7?smid=A1086JBT6ENJ4P&psc=1 |
 | thermocouple thermometer | tempature sensing | 1 | planned | initial dev | $33.99 | https://www.amazon.ca/gp/product/B0GSVMK1T6/ref=ewc_pr_img_4?smid=A2N4NEZPB53SEZ&psc=1 |
