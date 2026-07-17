@@ -11,6 +11,8 @@ https://www.amazon.ca/gp/product/B0CM2Y7V1Z/ref=ewc_pr_img_5?smid=A2FBSO766XM36V
 | 1018 steel | electromagnet core | 2 | planned | electromagnet (sourced from metal supermarkets)| $2.74 | https://www.metalsupermarkets.com/checkout-confirm/?response=checkout_confirm&oid=221611&cid=11183932 | 
 | neodymium magnets | opposite of electromagnet | 1 | planned | electromagnet| $26.99 | https://www.amazon.ca/gp/product/B072K5SLXK/ref=ewc_pr_img_1?smid=AADRPL0EEP9MO&th=1 | 
 | precision scale | measuring force of electromagnet | 1 | planned | electromagnet | $14.95 | https://www.amazon.ca/gp/product/B07DJBDL6L/ref=ewc_pr_img_2?smid=AUFTFEHAGU72I&th=1 |
+| precision measurment | calculating float distance | 1 | purchased | electromagnet | $11.69 | 
+https://www.amazon.ca/gp/product/B0DKWTZRXZ/ref=ewc_pr_img_1?smid=A1ZRXBRSZRR8MX&th=1 |
 
 | ESP32-DEVKITC-32UE | Main Controller | 1 | planned | initial dev |
 | IRLZ44NPBF mosfet | electromagnet driver | 4 | planned | electromagnet |
