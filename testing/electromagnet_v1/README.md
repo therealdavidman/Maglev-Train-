@@ -66,11 +66,31 @@
   4. Check resistance between the winding and steel core. it should appear elevtrically open.
   5. Determine permanent-magnet polarity and mart its orientation.
 
+  ### Tap screening at 4 mm
+
+  For each selected tap:
+  1. Allow the coil to return near ambient temperature
+  2. Select the tap and insulate all unused taps.
+  3. secure the permanent magnet to the scale and the coild to the rigid holder.
+  4. set the gap to 4 mm using a non magnetic spacer
+  5. with the coil off, record or tare the baseline scale reading.
+  6. set the power-supply voltage low and set the desired current limit.
+  7. Energize the coil and slowly raise the voltage until the target current is reached.
+  8. record voltage, current, force, coil temperature, and gap.
+  9. turn the power off as soon as the reading stabilizies
+  10. repeat for currents:
+      - 0.25A
+      - 0.50A
+      - 0.75A
+      - 1.00A
+  11. perform one trial per point initially.
+  12. repeat any suspicious or inconsisten result.
+
   ### Force test
 
-  For each tap:
+  choose the best tap from screening:
 
-  1. Allow the coil to return near ambien temperature.
+  1. Allow the coil to return near ambient temperature.
   2. Select the tap and insulate all others.
   3. Secure the magnet to the scale and the coil to the rigid holder.
   4. Set the gap to 2 mm using a nonmagnetic spacer.
@@ -81,7 +101,7 @@
   9. turn the power off after the reading stabilized.
   10. repeat at 4, 6 , and 8 mm.
   11. Repeat each point at least 3 times.
-  12. Repeat for the next current and tap.
+  12. Repeat for the next current.
       test currents:
         0.10, 0.20, 0.30, 0.50, 0.75, 1.00 A
 
