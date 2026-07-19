@@ -1,1 +1,6 @@
-
+My goal is to design a maglev train from scratch. I will be custom designing as much as possible
+this includes the electromagnets, control system, train body, track etc.
+My ideal finished project woult have 3 axis (height, pitch, and roll) all be controlled
+by a feedback loop.
+I will be taking this project in very small increments currently i am working on designing 
+electromagnets.
