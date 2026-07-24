@@ -13,6 +13,7 @@ https://www.amazon.ca/gp/product/B0CM2Y7V1Z/ref=ewc_pr_img_5?smid=A2FBSO766XM36V
 | precision scale | measuring force of electromagnet | 1 | planned | electromagnet | $14.95 | https://www.amazon.ca/gp/product/B07DJBDL6L/ref=ewc_pr_img_2?smid=AUFTFEHAGU72I&th=1 |
 | precision measurment | calculating float distance | 1 | purchased | electromagnet | $11.69 | 
 https://www.amazon.ca/gp/product/B0DKWTZRXZ/ref=ewc_pr_img_1?smid=A1ZRXBRSZRR8MX&th=1 |
+| Retort stand | To hold the electromagnet at set distance. | 1 | purchased | n/a | https://www.amazon.ca/dp/B0CF5NY4W4?ref=ppx_yo2ov_dt_b_fed_asin_title |
 
 | ESP32-DEVKITC-32UE | Main Controller | 1 | planned | initial dev |
 | IRLZ44NPBF mosfet | electromagnet driver | 4 | planned | electromagnet |
