@@ -2,9 +2,9 @@
 
 # Current Concept
 
-![Concept V1](docs/Diagrams/concept_art/ConceptArtV1.png)
+![Concept V1](docs/Diagrams/concept_art/ConceptArtV2.png)
 
-[High-resolution PDF](docs/Diagrams/concept_art/ConceptArtV1.pdf)
+[High-resolution PDF](docs/Diagrams/concept_art/ConceptArtV2.pdf)
 
 # roadmap
 
